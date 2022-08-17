@@ -6,6 +6,7 @@ public class Department {
 	private String departmentName;
 	private String departmentAddress;
 	private String departmentCode;
+	
 	public long getDepartmentId() {
 		return departmentId;
 	}
